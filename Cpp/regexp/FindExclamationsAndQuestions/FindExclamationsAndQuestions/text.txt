@@ -1,0 +1,3 @@
+Hello! My name is Vlad. 
+I can do magic with C++. And I don't like to waste time on useless labs! 
+Do you like to waste time? I think no. Please, let me skip your pairs!
