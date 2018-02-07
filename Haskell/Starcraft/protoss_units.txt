@@ -1,0 +1,20 @@
+Probe
+Zealot
+Stalker
+Sentry
+Observer
+Immortal
+Warp Prism
+Colossus
+Phoenix
+Void Ray
+High Templar
+Dark Templar
+Archon
+Carrier
+Mothership
+Mothership Core
+Oracle
+Tempest
+Adept
+Disruptor

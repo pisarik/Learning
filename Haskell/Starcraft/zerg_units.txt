@@ -1,0 +1,19 @@
+Larva
+Drone
+Overlord
+Zergling
+Queen
+Hydralisk
+Baneling
+Overseer
+Roach
+Infestor
+Mutalisk
+Corruptor
+Nydus Worm
+Ultralisk
+Brood Lord
+Swarm Host
+Viper
+Ravager
+Lurker

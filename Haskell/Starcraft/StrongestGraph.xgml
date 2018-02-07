@@ -1,0 +1,4199 @@
+<?xml version="1.0" encoding="Cp1251"?>
+<section name="xgml">
+	<attribute key="Creator" type="String">yFiles</attribute>
+	<attribute key="Version" type="String">2.14</attribute>
+	<section name="graph">
+		<attribute key="hierarchic" type="int">1</attribute>
+		<attribute key="label" type="String"></attribute>
+		<attribute key="directed" type="int">1</attribute>
+		<section name="node">
+			<attribute key="id" type="int">0</attribute>
+			<attribute key="label" type="String">Oracle</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">2006.5781746031744</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Oracle</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">1</attribute>
+			<attribute key="label" type="String">Lurker</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">2391.179365079365</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Lurker</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">2</attribute>
+			<attribute key="label" type="String">Marine</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1151.8708333333334</attribute>
+				<attribute key="y" type="double">3523.1239194781283</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Marine</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">3</attribute>
+			<attribute key="label" type="String">High Templar</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">697.2628968253969</attribute>
+				<attribute key="y" type="double">4312.974125068564</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">High Templar</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">4</attribute>
+			<attribute key="label" type="String">Dark Templar</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1493.276388888889</attribute>
+				<attribute key="y" type="double">4582.7363274495165</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Dark Templar</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">5</attribute>
+			<attribute key="label" type="String">Tempest</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1237.3757936507936</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Tempest</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">6</attribute>
+			<attribute key="label" type="String">Carrier</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1223.6541666666667</attribute>
+				<attribute key="y" type="double">1748.3355916305914</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Carrier</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">7</attribute>
+			<attribute key="label" type="String">Adept</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">852.7746031746032</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Adept</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">8</attribute>
+			<attribute key="label" type="String">Phoenix</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1284.6144841269838</attribute>
+				<attribute key="y" type="double">2022.5224368686863</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Phoenix</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">9</attribute>
+			<attribute key="label" type="String">Zealot</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">982.9863095238095</attribute>
+				<attribute key="y" type="double">2555.9325955988447</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Zealot</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">10</attribute>
+			<attribute key="label" type="String">Stalker</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">826.5875</attribute>
+				<attribute key="y" type="double">926.2000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Stalker</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">11</attribute>
+			<attribute key="label" type="String">Void Ray</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1123.2291666666665</attribute>
+				<attribute key="y" type="double">1571.1748773448771</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Void Ray</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">12</attribute>
+			<attribute key="label" type="String">Sentry</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1109.1753968253965</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Sentry</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">13</attribute>
+			<attribute key="label" type="String">Archon</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1621.976984126984</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Archon</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">14</attribute>
+			<attribute key="label" type="String">Disruptor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1493.7765873015874</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Disruptor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">15</attribute>
+			<attribute key="label" type="String">Mothership</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1750.1773809523806</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Mothership</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">16</attribute>
+			<attribute key="label" type="String">Mothership Core</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">2262.978968253968</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Mothership Core</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">17</attribute>
+			<attribute key="label" type="String">Immortal</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1545.6017857142856</attribute>
+				<attribute key="y" type="double">629.5000000000001</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Immortal</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">18</attribute>
+			<attribute key="label" type="String">Colossus</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1388.125992063492</attribute>
+				<attribute key="y" type="double">2342.268508297258</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Colossus</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">19</attribute>
+			<attribute key="label" type="String">Ravager</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">724.5742063492063</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Ravager</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">20</attribute>
+			<attribute key="label" type="String">Roach</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1014.853373015873</attribute>
+				<attribute key="y" type="double">4582.7363274495165</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Roach</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">21</attribute>
+			<attribute key="label" type="String">Viper</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1365.5761904761903</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Viper</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">22</attribute>
+			<attribute key="label" type="String">Corruptor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1368.8549603174602</attribute>
+				<attribute key="y" type="double">1571.1748773448771</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Corruptor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">23</attribute>
+			<attribute key="label" type="String">Ultralisk</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1242.9251984126981</attribute>
+				<attribute key="y" type="double">3227.1547456337244</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Ultralisk</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">24</attribute>
+			<attribute key="label" type="String">Infestor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">825.4632936507936</attribute>
+				<attribute key="y" type="double">4312.974125068564</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Infestor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">25</attribute>
+			<attribute key="label" type="String">Brood Lord</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1878.3777777777777</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Brood Lord</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">26</attribute>
+			<attribute key="label" type="String">Queen</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">2134.7785714285715</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Queen</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">27</attribute>
+			<attribute key="label" type="String">Baneling</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">568.0621031746032</attribute>
+				<attribute key="y" type="double">3227.1547456337244</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Baneling</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">28</attribute>
+			<attribute key="label" type="String">Zergling</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">520.0621031746032</attribute>
+				<attribute key="y" type="double">2787.496980519479</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Zergling</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">29</attribute>
+			<attribute key="label" type="String">Hydralisk</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1404.125992063492</attribute>
+				<attribute key="y" type="double">3807.6672004653897</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Hydralisk</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">30</attribute>
+			<attribute key="label" type="String">Swarm Host</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">980.975</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Swarm Host</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">31</attribute>
+			<attribute key="label" type="String">Mutalisk</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1247.8375</attribute>
+				<attribute key="y" type="double">1225.494480519481</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Mutalisk</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">32</attribute>
+			<attribute key="label" type="String">Reaper</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1006.6700396825397</attribute>
+				<attribute key="y" type="double">4844.018767925708</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Reaper</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">33</attribute>
+			<attribute key="label" type="String">Marauder</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">568.0621031746032</attribute>
+				<attribute key="y" type="double">3807.6672004653897</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Marauder</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">34</attribute>
+			<attribute key="label" type="String">Ghost</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">729.9962301587302</attribute>
+				<attribute key="y" type="double">4020.094918719358</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Ghost</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">35</attribute>
+			<attribute key="label" type="String">Viking</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1312.4378968253968</attribute>
+				<attribute key="y" type="double">1409.3706114718616</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Viking</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">36</attribute>
+			<attribute key="label" type="String">Battlecruiser</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1095.4537698412696</attribute>
+				<attribute key="y" type="double">1748.3355916305914</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Battlecruiser</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">37</attribute>
+			<attribute key="label" type="String">Raven</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1468.7263888888888</attribute>
+				<attribute key="y" type="double">4312.974125068564</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Raven</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">38</attribute>
+			<attribute key="label" type="String">Banshee</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1457.221626984127</attribute>
+				<attribute key="y" type="double">2178.0992225829723</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Banshee</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">39</attribute>
+			<attribute key="label" type="String">Hellion</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">600.6625</attribute>
+				<attribute key="y" type="double">4844.018767925708</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Hellion</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">40</attribute>
+			<attribute key="label" type="String">Siege Tank</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1533.3267857142855</attribute>
+				<attribute key="y" type="double">2342.268508297258</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Siege Tank</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">41</attribute>
+			<attribute key="label" type="String">Lierator</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1284.6144841269838</attribute>
+				<attribute key="y" type="double">1904.3224368686865</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Lierator</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">42</attribute>
+			<attribute key="label" type="String">Thor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">789.4863095238095</attribute>
+				<attribute key="y" type="double">3227.1547456337244</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Thor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">43</attribute>
+			<attribute key="label" type="String">Hellbat</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">536.0621031746032</attribute>
+				<attribute key="y" type="double">4020.094918719358</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Hellbat</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">44</attribute>
+			<attribute key="label" type="String">Widow Mine</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1557.8767857142857</attribute>
+				<attribute key="y" type="double">344.30000000000007</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Widow Mine</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">45</attribute>
+			<attribute key="label" type="String">Overseer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">596.3738095238095</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Overseer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">46</attribute>
+			<attribute key="label" type="String">Probe</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">878.4696428571428</attribute>
+				<attribute key="y" type="double">4993.085533798725</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Probe</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">47</attribute>
+			<attribute key="label" type="String">SCV</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1134.8704365079366</attribute>
+				<attribute key="y" type="double">4993.085533798725</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">SCV</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">48</attribute>
+			<attribute key="label" type="String">Drone</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1006.6700396825397</attribute>
+				<attribute key="y" type="double">4993.085533798725</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#339966</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Drone</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">49</attribute>
+			<attribute key="label" type="String">Cyclone</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1014.853373015873</attribute>
+				<attribute key="y" type="double">3017.9822979797964</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#A93134</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Cyclone</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">50</attribute>
+			<attribute key="label" type="String">Observer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">2519.379761904762</attribute>
+				<attribute key="y" type="double">49.10000000000002</attribute>
+				<attribute key="w" type="double">98.20000000000005</attribute>
+				<attribute key="h" type="double">98.20000000000005</attribute>
+				<attribute key="type" type="String">ellipse</attribute>
+				<attribute key="raisedBorder" type="boolean">false</attribute>
+				<attribute key="fill" type="String">#3366FF</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Observer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">32</attribute>
+			<attribute key="target" type="int">47</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1006.6700396825397</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1039.403373015873</attribute>
+						<attribute key="y" type="double">4903.618767925708</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1134.8704365079366</attribute>
+						<attribute key="y" type="double">4928.485533798724</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1134.8704365079366</attribute>
+						<attribute key="y" type="double">4993.085533798725</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631435</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">32</attribute>
+			<attribute key="target" type="int">46</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1006.6700396825397</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">973.9367063492064</attribute>
+						<attribute key="y" type="double">4903.618767925708</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">878.4696428571428</attribute>
+						<attribute key="y" type="double">4928.485533798724</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">878.4696428571428</attribute>
+						<attribute key="y" type="double">4993.085533798725</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631435</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">32</attribute>
+			<attribute key="target" type="int">48</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">32</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">616.6625</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">616.6625</attribute>
+						<attribute key="y" type="double">4642.336327449517</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1006.6700396825397</attribute>
+						<attribute key="y" type="double">4779.4187679257075</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1006.6700396825397</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">0.9999999999999977</attribute>
+				<attribute key="yTarget" type="double">-1.0000000000000069</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">20</attribute>
+			<attribute key="target" type="int">32</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.5000000000000011</attribute>
+				<attribute key="ySource" type="double">0.8657077393075426</attribute>
+				<attribute key="xTarget" type="double">0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631435</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">32</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">790.878409090909</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">435.6069444444444</attribute>
+						<attribute key="y" type="double">1224.9944805194807</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">435.6069444444444</attribute>
+						<attribute key="y" type="double">4642.336327449517</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">973.9367063492064</attribute>
+						<attribute key="y" type="double">4779.4187679257075</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1006.6700396825397</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.7272727272727277</attribute>
+				<attribute key="ySource" type="double">0.6862270875763737</attribute>
+				<attribute key="xTarget" type="double">-0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631435</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">42</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">576.2454365079366</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">764.9363095238095</attribute>
+						<attribute key="y" type="double">3582.723919478128</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.16666666666666782</attribute>
+				<attribute key="ySource" type="double">-0.9866344195519325</attribute>
+				<attribute key="xTarget" type="double">-0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">0.8657077393075322</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">20</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">587.7021031746032</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">632.6625</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">632.6625</attribute>
+						<attribute key="y" type="double">4362.574125068563</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">978.028373015873</attribute>
+						<attribute key="y" type="double">4518.136327449516</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">4582.7363274495165</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.3999999999999995</attribute>
+				<attribute key="ySource" type="double">0.9166242362525435</attribute>
+				<attribute key="xTarget" type="double">-0.7500000000000006</attribute>
+				<attribute key="yTarget" type="double">-0.662041751527502</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">543.5121031746032</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">455.46170634920634</attribute>
+						<attribute key="y" type="double">3523.6239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">455.46170634920634</attribute>
+						<attribute key="y" type="double">1224.9944805194807</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">808.7329545454545</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">-0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">-0.36363636363636387</attribute>
+				<attribute key="yTarget" type="double">0.9318991853360478</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">28</attribute>
+			<attribute key="target" type="int">33</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">511.87876984126984</attribute>
+						<attribute key="y" type="double">2847.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">503.46170634920634</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">503.46170634920634</attribute>
+						<attribute key="y" type="double">3523.6239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">559.8787698412698</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.16666666666666552</attribute>
+				<attribute key="ySource" type="double">0.9866344195519325</attribute>
+				<attribute key="xTarget" type="double">-0.16666666666666782</attribute>
+				<attribute key="yTarget" type="double">-0.9866344195519325</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">33</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1127.3208333333334</attribute>
+						<attribute key="y" type="double">3582.723919478128</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">608.9787698412699</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.8333333333333345</attribute>
+				<attribute key="yTarget" type="double">-0.5525712830957209</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">9</attribute>
+			<attribute key="target" type="int">33</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">974.8029761904761</attribute>
+						<attribute key="y" type="double">2620.5325955988446</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">934.2529761904761</attribute>
+						<attribute key="y" type="double">2722.8969805194797</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">934.2529761904761</attribute>
+						<attribute key="y" type="double">3582.723919478128</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">592.6121031746031</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.16666666666666782</attribute>
+				<attribute key="ySource" type="double">0.9866344195519325</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">29</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1176.4208333333333</attribute>
+						<attribute key="y" type="double">3582.723919478128</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1412.3093253968254</attribute>
+						<attribute key="y" type="double">3643.196042494001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1404.125992063492</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.16666666666666782</attribute>
+				<attribute key="yTarget" type="double">-0.9866344195519325</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">17</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1195.5152777777778</attribute>
+						<attribute key="y" type="double">3458.5239194781284</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1613.9271825396825</attribute>
+						<attribute key="y" type="double">3276.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1613.9271825396825</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1586.5184523809523</attribute>
+						<attribute key="y" type="double">694.1000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1545.6017857142856</attribute>
+						<attribute key="y" type="double">629.5000000000001</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.8888888888888874</attribute>
+				<attribute key="ySource" type="double">-0.4583757637474521</attribute>
+				<attribute key="xTarget" type="double">0.8333333333333345</attribute>
+				<attribute key="yTarget" type="double">0.5525712830957232</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">27</attribute>
+			<attribute key="target" type="int">2</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">592.6121031746031</attribute>
+						<attribute key="y" type="double">3286.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1119.1375</attribute>
+						<attribute key="y" type="double">3423.3860948400734</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">-0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631343</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">40</attribute>
+			<attribute key="target" type="int">2</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1533.3267857142855</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1508.7767857142858</attribute>
+						<attribute key="y" type="double">3276.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1184.6041666666667</attribute>
+						<attribute key="y" type="double">3458.5239194781284</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631343</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">18</attribute>
+			<attribute key="target" type="int">2</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1388.125992063492</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1412.675992063492</attribute>
+						<attribute key="y" type="double">3276.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1173.6930555555557</attribute>
+						<attribute key="y" type="double">3458.5239194781284</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.444444444444446</attribute>
+				<attribute key="yTarget" type="double">-0.8962576374745395</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">34</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">607.3421031746032</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">697.2628968253969</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.799999999999999</attribute>
+				<attribute key="ySource" type="double">0.5996690427698553</attribute>
+				<attribute key="xTarget" type="double">-0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631343</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">28</attribute>
+			<attribute key="target" type="int">34</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">528.2454365079366</attribute>
+						<attribute key="y" type="double">2847.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">632.6625</attribute>
+						<attribute key="y" type="double">2953.3822979797965</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">632.6625</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.16666666666666782</attribute>
+				<attribute key="ySource" type="double">0.9866344195519325</attribute>
+				<attribute key="yTarget" type="double">-0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">34</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">835.514880952381</attribute>
+						<attribute key="y" type="double">2847.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">854.0867063492063</attribute>
+						<attribute key="y" type="double">2953.3822979797965</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">854.0867063492063</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">762.7295634920636</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.1818181808246041</attribute>
+				<attribute key="ySource" type="double">0.9828156822810579</attribute>
+				<attribute key="xTarget" type="double">0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631343</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">34</attribute>
+			<attribute key="target" type="int">37</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">762.7295634920636</attribute>
+						<attribute key="y" type="double">4079.6949187193577</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1429.4463888888888</attribute>
+						<attribute key="y" type="double">4248.374125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631343</attribute>
+				<attribute key="xTarget" type="double">-0.799999999999999</attribute>
+				<attribute key="yTarget" type="double">-0.5996690427698645</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">34</attribute>
+			<attribute key="target" type="int">24</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">729.9962301587302</attribute>
+						<attribute key="y" type="double">4079.6949187193577</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">825.4632936507936</attribute>
+						<attribute key="y" type="double">4248.374125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">825.4632936507936</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">34</attribute>
+			<attribute key="target" type="int">3</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631343</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">39</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">548.4221031746032</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">600.6625</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">600.6625</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.3999999999999995</attribute>
+				<attribute key="ySource" type="double">0.9166242362525435</attribute>
+				<attribute key="yTarget" type="double">-1.0000000000000069</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">20</attribute>
+			<attribute key="target" type="int">39</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">4582.7363274495165</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">990.3033730158729</attribute>
+						<attribute key="y" type="double">4642.336327449517</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">639.9425000000001</attribute>
+						<attribute key="y" type="double">4779.4187679257075</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">600.6625</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.5000000000000011</attribute>
+				<attribute key="ySource" type="double">0.8657077393075426</attribute>
+				<attribute key="xTarget" type="double">0.8000000000000026</attribute>
+				<attribute key="yTarget" type="double">-0.5996690427698645</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">39</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">781.9511363636364</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">425.6795634920635</attribute>
+						<attribute key="y" type="double">1224.9944805194807</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">425.6795634920635</attribute>
+						<attribute key="y" type="double">4642.336327449517</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">561.3825</attribute>
+						<attribute key="y" type="double">4779.4187679257075</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">600.6625</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.9090909090909085</attribute>
+				<attribute key="ySource" type="double">0.41636965376781987</attribute>
+				<attribute key="xTarget" type="double">-0.799999999999999</attribute>
+				<attribute key="yTarget" type="double">-0.5996690427698645</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">39</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">600.6625</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">620.3025</attribute>
+						<attribute key="y" type="double">4779.4187679257075</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">950.2529761904761</attribute>
+						<attribute key="y" type="double">4642.336327449517</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">950.2529761904761</attribute>
+						<attribute key="y" type="double">2722.8969805194797</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">991.1696428571429</attribute>
+						<attribute key="y" type="double">2620.5325955988446</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.4000000000000007</attribute>
+				<attribute key="ySource" type="double">-0.9166242362525528</attribute>
+				<attribute key="xTarget" type="double">0.16666666666666782</attribute>
+				<attribute key="yTarget" type="double">0.9866344195519325</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">39</attribute>
+			<attribute key="target" type="int">28</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">600.6625</attribute>
+						<attribute key="y" type="double">4844.018767925708</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">581.0225</attribute>
+						<attribute key="y" type="double">4779.4187679257075</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">471.46170634920634</attribute>
+						<attribute key="y" type="double">4642.336327449517</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">471.46170634920634</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">479.1454365079365</attribute>
+						<attribute key="y" type="double">2852.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.3999999999999995</attribute>
+				<attribute key="ySource" type="double">-0.9166242362525528</attribute>
+				<attribute key="xTarget" type="double">-0.8333333333333321</attribute>
+				<attribute key="yTarget" type="double">0.5525712830957209</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">43</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">536.0621031746032</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">575.3421031746032</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">918.2529761904761</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">918.2529761904761</attribute>
+						<attribute key="y" type="double">2722.8969805194797</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">958.4363095238095</attribute>
+						<attribute key="y" type="double">2620.5325955988446</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.799999999999999</attribute>
+				<attribute key="ySource" type="double">-0.5996690427698553</attribute>
+				<attribute key="xTarget" type="double">-0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">43</attribute>
+			<attribute key="target" type="int">28</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">536.0621031746032</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">516.4221031746032</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">487.46170634920634</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">487.46170634920634</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">495.51210317460317</attribute>
+						<attribute key="y" type="double">2852.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.3999999999999995</attribute>
+				<attribute key="ySource" type="double">-0.9166242362525435</attribute>
+				<attribute key="xTarget" type="double">-0.5000000000000011</attribute>
+				<attribute key="yTarget" type="double">0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">43</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">528.7821031746032</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">555.7021031746032</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">536.0621031746032</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.799999999999999</attribute>
+				<attribute key="ySource" type="double">0.5996690427698553</attribute>
+				<attribute key="xTarget" type="double">0.3999999999999995</attribute>
+				<attribute key="yTarget" type="double">-0.9166242362525435</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">43</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">799.8056818181818</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">445.5343253968254</attribute>
+						<attribute key="y" type="double">1224.9944805194807</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">445.5343253968254</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">496.78210317460315</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">536.0621031746032</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.5454545454545446</attribute>
+				<attribute key="ySource" type="double">0.837703665987779</attribute>
+				<attribute key="xTarget" type="double">-0.8000000000000014</attribute>
+				<attribute key="yTarget" type="double">-0.5996690427698553</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">27</attribute>
+			<attribute key="target" type="int">43</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">543.5121031746032</attribute>
+						<attribute key="y" type="double">3523.6239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">503.46170634920634</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">503.46170634920634</attribute>
+						<attribute key="y" type="double">3867.2672004653896</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">536.0621031746032</attribute>
+						<attribute key="y" type="double">3955.494918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">536.0621031746032</attribute>
+						<attribute key="y" type="double">4020.094918719358</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="yTarget" type="double">-0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">40</attribute>
+			<attribute key="target" type="int">29</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1533.3267857142855</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1557.8767857142857</attribute>
+						<attribute key="y" type="double">3523.6239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1445.0426587301588</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1404.125992063492</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.5000000000000011</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.8333333333333345</attribute>
+				<attribute key="yTarget" type="double">-0.5525712830957209</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">40</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1533.3267857142855</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1545.6017857142858</attribute>
+						<attribute key="y" type="double">1160.8944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">871.2238636363636</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.2500000000000017</attribute>
+				<attribute key="ySource" type="double">-0.968813645621179</attribute>
+				<attribute key="xTarget" type="double">0.9090909090909085</attribute>
+				<attribute key="yTarget" type="double">0.41636965376781987</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">17</attribute>
+			<attribute key="target" type="int">40</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075358</attribute>
+				<attribute key="xTarget" type="double">0.7500000000000029</attribute>
+				<attribute key="yTarget" type="double">-0.6620417515274928</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">38</attribute>
+			<attribute key="target" type="int">40</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.7999990367548226</attribute>
+				<attribute key="ySource" type="double">0.5996690427710142</attribute>
+				<attribute key="xTarget" type="double">-0.7499991868311793</attribute>
+				<attribute key="yTarget" type="double">-0.6620417515284722</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">31</attribute>
+			<attribute key="target" type="int">40</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1287.1175</attribute>
+						<attribute key="y" type="double">1285.0944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1521.822023809524</attribute>
+						<attribute key="y" type="double">1344.7706114718617</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1521.822023809524</attribute>
+						<attribute key="y" type="double">2178.5992225829723</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1521.0517857142854</attribute>
+						<attribute key="y" type="double">2277.668508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1533.3267857142855</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.799999999999999</attribute>
+				<attribute key="ySource" type="double">0.5996690427698553</attribute>
+				<attribute key="xTarget" type="double">-0.2500000000000017</attribute>
+				<attribute key="yTarget" type="double">-0.968813645621179</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">28</attribute>
+			<attribute key="target" type="int">42</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">544.6121031746031</attribute>
+						<attribute key="y" type="double">2847.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">755.514880952381</attribute>
+						<attribute key="y" type="double">2953.3822979797965</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">755.514880952381</attribute>
+						<attribute key="y" type="double">3018.4822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">761.4291666666667</attribute>
+						<attribute key="y" type="double">3162.5547456337245</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">-0.5714285714285704</attribute>
+				<attribute key="yTarget" type="double">-0.8211558044806495</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">17</attribute>
+			<attribute key="target" type="int">42</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1545.6017857142856</attribute>
+						<attribute key="y" type="double">629.5000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1504.6851190476189</attribute>
+						<attribute key="y" type="double">689.1000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">761.9871031746031</attribute>
+						<attribute key="y" type="double">861.6000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">761.9871031746031</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">771.514880952381</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">771.514880952381</attribute>
+						<attribute key="y" type="double">3018.4822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">775.457738095238</attribute>
+						<attribute key="y" type="double">3162.5547456337245</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.8333333333333345</attribute>
+				<attribute key="ySource" type="double">0.5525712830957232</attribute>
+				<attribute key="xTarget" type="double">-0.28571428571428636</attribute>
+				<attribute key="yTarget" type="double">-0.9586303462321769</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">42</attribute>
+			<attribute key="target" type="int">2</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">814.0363095238095</attribute>
+						<attribute key="y" type="double">3286.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1130.048611111111</attribute>
+						<attribute key="y" type="double">3423.3860948400734</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075322</attribute>
+				<attribute key="xTarget" type="double">-0.444444444444446</attribute>
+				<attribute key="yTarget" type="double">-0.8962576374745395</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">42</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3167.5547456337245</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">787.514880952381</attribute>
+						<attribute key="y" type="double">3018.4822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">787.514880952381</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">-0.9999999999999977</attribute>
+				<attribute key="yTarget" type="double">1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">42</attribute>
+			<attribute key="target" type="int">31</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">803.514880952381</attribute>
+						<attribute key="y" type="double">1408.8706114718616</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1208.5575000000001</attribute>
+						<attribute key="y" type="double">1290.0944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.28571428571428636</attribute>
+				<attribute key="ySource" type="double">-0.9586303462321769</attribute>
+				<attribute key="xTarget" type="double">-0.799999999999999</attribute>
+				<attribute key="yTarget" type="double">0.5996690427698553</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">35</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1162.7819444444444</attribute>
+						<attribute key="y" type="double">3458.5239194781284</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1323.5255952380953</attribute>
+						<attribute key="y" type="double">3276.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1323.5255952380953</attribute>
+						<attribute key="y" type="double">2277.668508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1392.6212301587302</attribute>
+						<attribute key="y" type="double">2237.699222582972</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1392.6212301587302</attribute>
+						<attribute key="y" type="double">1747.8355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1433.455357142857</attribute>
+						<attribute key="y" type="double">1630.774877344877</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1433.455357142857</attribute>
+						<attribute key="y" type="double">1506.5748773448772</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1336.9878968253968</attribute>
+						<attribute key="y" type="double">1473.9706114718615</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.22222222222222068</attribute>
+				<attribute key="ySource" type="double">-0.9751782077393052</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">31</attribute>
+			<attribute key="target" type="int">35</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1267.4775000000002</attribute>
+						<attribute key="y" type="double">1285.0944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1287.8878968253969</attribute>
+						<attribute key="y" type="double">1344.7706114718617</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.40000000000000185</attribute>
+				<attribute key="ySource" type="double">0.9166242362525435</attribute>
+				<attribute key="xTarget" type="double">-0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">35</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">862.2965909090909</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1160.8944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1285.0944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1336.9878968253968</attribute>
+						<attribute key="y" type="double">1344.7706114718617</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.7272727272727277</attribute>
+				<attribute key="ySource" type="double">0.6862270875763737</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">35</attribute>
+			<attribute key="target" type="int">36</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1287.8878968253969</attribute>
+						<attribute key="y" type="double">1468.9706114718615</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1187.8295634920635</attribute>
+						<attribute key="y" type="double">1506.5748773448772</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1187.8295634920635</attribute>
+						<attribute key="y" type="double">1630.774877344877</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1107.7287698412697</attribute>
+						<attribute key="y" type="double">1683.7355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.2500000000000017</attribute>
+				<attribute key="yTarget" type="double">-0.968813645621179</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">35</attribute>
+			<attribute key="target" type="int">22</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1320.6212301587302</attribute>
+						<attribute key="y" type="double">1473.9706114718615</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1368.8549603174602</attribute>
+						<attribute key="y" type="double">1506.5748773448772</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1368.8549603174602</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.16666666666666782</attribute>
+				<attribute key="ySource" type="double">0.9866344195519325</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">35</attribute>
+			<attribute key="target" type="int">11</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1271.52123015873</attribute>
+						<attribute key="y" type="double">1468.9706114718615</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1147.7791666666665</attribute>
+						<attribute key="y" type="double">1506.5748773448772</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1123.2291666666665</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.8333333333333345</attribute>
+				<attribute key="ySource" type="double">0.5525712830957209</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">22</attribute>
+			<attribute key="target" type="int">37</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1368.8549603174602</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1401.5882936507935</attribute>
+						<attribute key="y" type="double">1630.774877344877</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1597.9271825396825</attribute>
+						<attribute key="y" type="double">1747.8355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1597.9271825396825</attribute>
+						<attribute key="y" type="double">4020.594918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1488.3663888888889</attribute>
+						<attribute key="y" type="double">4248.374125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.6666666666666643</attribute>
+				<attribute key="ySource" type="double">0.7447810590631354</attribute>
+				<attribute key="xTarget" type="double">0.40000000000000185</attribute>
+				<attribute key="yTarget" type="double">-0.9166242362525528</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">8</attribute>
+			<attribute key="target" type="int">37</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">2022.5224368686863</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1260.064484126984</attribute>
+						<attribute key="y" type="double">2401.868508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1307.5255952380953</attribute>
+						<attribute key="y" type="double">2491.3325955988453</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1307.5255952380953</attribute>
+						<attribute key="y" type="double">3276.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1216.4712301587301</attribute>
+						<attribute key="y" type="double">3458.5239194781284</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1216.4712301587301</attribute>
+						<attribute key="y" type="double">4079.6949187193577</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1449.0863888888887</attribute>
+						<attribute key="y" type="double">4248.374125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">-0.40000000000000185</attribute>
+				<attribute key="yTarget" type="double">-0.9166242362525528</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">37</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">2292.668508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1476.861626984127</attribute>
+						<attribute key="y" type="double">2242.699222582972</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2178.0992225829723</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">-1.0000000000000069</attribute>
+				<attribute key="xTarget" type="double">0.40000000000000185</attribute>
+				<attribute key="yTarget" type="double">0.9166242362525435</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">37</attribute>
+			<attribute key="target" type="int">20</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1444.1763888888888</attribute>
+						<attribute key="y" type="double">4372.574125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1027.128373015873</attribute>
+						<attribute key="y" type="double">4518.136327449516</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">4582.7363274495165</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075426</attribute>
+				<attribute key="xTarget" type="double">0.24999999999999942</attribute>
+				<attribute key="yTarget" type="double">-0.9688136456211882</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">37</attribute>
+			<attribute key="target" type="int">4</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075426</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">35</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1312.4378968253968</attribute>
+						<attribute key="y" type="double">1409.3706114718616</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1353.3545634920636</attribute>
+						<attribute key="y" type="double">1473.9706114718615</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1481.771626984127</attribute>
+						<attribute key="y" type="double">1506.5748773448772</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2178.0992225829723</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.8333333333333345</attribute>
+				<attribute key="ySource" type="double">0.5525712830957209</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">29</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1404.125992063492</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1428.675992063492</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1452.7263888888888</attribute>
+						<attribute key="y" type="double">3523.6239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1452.7263888888888</attribute>
+						<attribute key="y" type="double">2342.2685082972575</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2242.699222582972</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2178.0992225829723</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">-0.8657077393075334</attribute>
+				<attribute key="yTarget" type="double">0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">8</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">2022.5224368686863</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1309.1644841269838</attribute>
+						<attribute key="y" type="double">2082.1224368686862</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1432.671626984127</attribute>
+						<attribute key="y" type="double">2113.499222582972</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2178.0992225829723</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">-0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">38</attribute>
+			<attribute key="target" type="int">23</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2178.0992225829723</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1417.941626984127</attribute>
+						<attribute key="y" type="double">2237.699222582972</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1276.064484126984</attribute>
+						<attribute key="y" type="double">2277.668508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1276.064484126984</attribute>
+						<attribute key="y" type="double">3018.4822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1242.9251984126981</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.799999999999999</attribute>
+				<attribute key="ySource" type="double">0.5996690427698553</attribute>
+				<attribute key="xTarget" type="double">0.6660206299427183</attribute>
+				<attribute key="yTarget" type="double">-0.746054793244292</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">38</attribute>
+			<attribute key="target" type="int">18</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1457.221626984127</attribute>
+						<attribute key="y" type="double">2178.0992225829723</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1437.5816269841268</attribute>
+						<attribute key="y" type="double">2237.699222582972</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1388.125992063492</attribute>
+						<attribute key="y" type="double">2277.668508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1388.125992063492</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.40000000000000185</attribute>
+				<attribute key="ySource" type="double">0.9166242362525435</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">22</attribute>
+			<attribute key="target" type="int">36</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1368.8549603174602</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1336.1216269841268</attribute>
+						<attribute key="y" type="double">1630.774877344877</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1132.2787698412696</attribute>
+						<attribute key="y" type="double">1683.7355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631354</attribute>
+				<attribute key="xTarget" type="double">0.7500000000000006</attribute>
+				<attribute key="yTarget" type="double">-0.6620417515274928</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">11</attribute>
+			<attribute key="target" type="int">36</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1123.2291666666665</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1123.2291666666665</attribute>
+						<attribute key="y" type="double">1630.774877344877</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1083.1787698412695</attribute>
+						<attribute key="y" type="double">1683.7355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">-0.2500000000000017</attribute>
+				<attribute key="yTarget" type="double">-0.968813645621179</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">36</attribute>
+			<attribute key="target" type="int">42</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1062.7204365079363</attribute>
+						<attribute key="y" type="double">1807.9355916305913</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">819.514880952381</attribute>
+						<attribute key="y" type="double">1903.8224368686865</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">819.514880952381</attribute>
+						<attribute key="y" type="double">3018.4822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">817.5434523809523</attribute>
+						<attribute key="y" type="double">3162.5547456337245</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631343</attribute>
+				<attribute key="xTarget" type="double">0.5714285714285704</attribute>
+				<attribute key="yTarget" type="double">-0.8211558044806495</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">36</attribute>
+			<attribute key="target" type="int">31</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1058.6287698412698</attribute>
+						<attribute key="y" type="double">1408.8706114718616</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1228.1975</attribute>
+						<attribute key="y" type="double">1290.0944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.7500000000000006</attribute>
+				<attribute key="ySource" type="double">-0.6620417515274928</attribute>
+				<attribute key="xTarget" type="double">-0.40000000000000185</attribute>
+				<attribute key="yTarget" type="double">0.9166242362525435</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">36</attribute>
+			<attribute key="target" type="int">2</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412698</attribute>
+						<attribute key="y" type="double">3286.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3423.3860948400734</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">0.9999999999999977</attribute>
+				<attribute key="yTarget" type="double">-0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">44</attribute>
+			<attribute key="target" type="int">20</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1557.8767857142857</attribute>
+						<attribute key="y" type="double">344.30000000000007</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1570.1517857142858</attribute>
+						<attribute key="y" type="double">408.9000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1629.9271825396825</attribute>
+						<attribute key="y" type="double">579.9000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1629.9271825396825</attribute>
+						<attribute key="y" type="double">4372.574125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1051.678373015873</attribute>
+						<attribute key="y" type="double">4518.136327449516</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">4582.7363274495165</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.2500000000000017</attribute>
+				<attribute key="ySource" type="double">0.9688136456211813</attribute>
+				<attribute key="xTarget" type="double">0.7499999999999982</attribute>
+				<attribute key="yTarget" type="double">-0.662041751527502</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">44</attribute>
+			<attribute key="target" type="int">33</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1557.8767857142857</attribute>
+						<attribute key="y" type="double">344.30000000000007</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1521.0517857142856</attribute>
+						<attribute key="y" type="double">403.9000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">409.6795634920635</attribute>
+						<attribute key="y" type="double">579.9000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">409.6795634920635</attribute>
+						<attribute key="y" type="double">3523.6239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">527.1454365079364</attribute>
+						<attribute key="y" type="double">3743.0672004653898</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">568.0621031746032</attribute>
+						<attribute key="y" type="double">3807.6672004653897</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.7500000000000006</attribute>
+				<attribute key="ySource" type="double">0.6620417515274951</attribute>
+				<attribute key="xTarget" type="double">-0.8333333333333345</attribute>
+				<attribute key="yTarget" type="double">-0.5525712830957209</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">44</attribute>
+			<attribute key="target" type="int">17</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.2500000000000017</attribute>
+				<attribute key="ySource" type="double">0.9688136456211813</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">45</attribute>
+			<attribute key="target" type="int">44</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">596.3738095238095</attribute>
+						<attribute key="y" type="double">49.10000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">596.3738095238095</attribute>
+						<attribute key="y" type="double">108.70000000000005</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1533.3267857142857</attribute>
+						<attribute key="y" type="double">279.70000000000005</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1557.8767857142857</attribute>
+						<attribute key="y" type="double">344.30000000000007</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">-0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075358</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">50</attribute>
+			<attribute key="target" type="int">44</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">2519.379761904762</attribute>
+						<attribute key="y" type="double">49.10000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">2519.379761904762</attribute>
+						<attribute key="y" type="double">108.70000000000005</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1582.4267857142856</attribute>
+						<attribute key="y" type="double">279.70000000000005</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1557.8767857142857</attribute>
+						<attribute key="y" type="double">344.30000000000007</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075358</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">36</attribute>
+			<attribute key="target" type="int">41</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1095.4537698412696</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1128.187103174603</attribute>
+						<attribute key="y" type="double">1807.9355916305913</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1245.3344841269839</attribute>
+						<attribute key="y" type="double">1839.7224368686866</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">1904.3224368686865</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631343</attribute>
+				<attribute key="xTarget" type="double">-0.799999999999999</attribute>
+				<attribute key="yTarget" type="double">-0.5996690427698553</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">22</attribute>
+			<attribute key="target" type="int">41</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1368.8549603174602</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1368.8549603174604</attribute>
+						<attribute key="y" type="double">1748.8355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1323.8944841269838</attribute>
+						<attribute key="y" type="double">1839.7224368686866</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">1904.3224368686865</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">0.9999999999999977</attribute>
+				<attribute key="xTarget" type="double">0.799999999999999</attribute>
+				<attribute key="yTarget" type="double">-0.5996690427698553</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">6</attribute>
+			<attribute key="target" type="int">41</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1223.6541666666667</attribute>
+						<attribute key="y" type="double">1748.3355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1223.6541666666667</attribute>
+						<attribute key="y" type="double">1807.9355916305913</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1264.9744841269837</attribute>
+						<attribute key="y" type="double">1839.7224368686866</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">1904.3224368686865</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">-0.40000000000000185</attribute>
+				<attribute key="yTarget" type="double">-0.9166242362525435</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">41</attribute>
+			<attribute key="target" type="int">35</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.399999983321763</attribute>
+				<attribute key="ySource" type="double">-0.9166242362525459</attribute>
+				<attribute key="xTarget" type="double">-0.1666666639930567</attribute>
+				<attribute key="yTarget" type="double">0.9866344195519325</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">41</attribute>
+			<attribute key="target" type="int">31</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">1904.3224368686865</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1284.6144841269838</attribute>
+						<attribute key="y" type="double">1844.7224368686866</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1288.2545634920634</attribute>
+						<attribute key="y" type="double">1748.8355916305914</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1288.2545634920634</attribute>
+						<attribute key="y" type="double">1506.5748773448772</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1468.9706114718615</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">-0.9999999999999977</attribute>
+				<attribute key="yTarget" type="double">0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">41</attribute>
+			<attribute key="target" type="int">8</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">9</attribute>
+			<attribute key="target" type="int">49</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1007.5363095238095</attribute>
+						<attribute key="y" type="double">2615.5325955988446</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="yTarget" type="double">-0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">28</attribute>
+			<attribute key="target" type="int">49</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">560.9787698412699</attribute>
+						<attribute key="y" type="double">2847.096980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.1200396825396</attribute>
+						<attribute key="y" type="double">2953.3822979797965</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.8333333333333345</attribute>
+				<attribute key="ySource" type="double">0.5525712830957209</attribute>
+				<attribute key="xTarget" type="double">-0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631343</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">49</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1151.8708333333334</attribute>
+						<attribute key="y" type="double">3523.1239194781283</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1140.9597222222224</attribute>
+						<attribute key="y" type="double">3423.3860948400734</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3286.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.22222222222222068</attribute>
+				<attribute key="ySource" type="double">-0.9751782077393052</attribute>
+				<attribute key="yTarget" type="double">0.9999999999999977</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">49</attribute>
+			<attribute key="target" type="int">23</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1047.5867063492065</attribute>
+						<attribute key="y" type="double">3077.5822979797963</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1242.9251984126981</attribute>
+						<attribute key="y" type="double">3127.416920995669</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1242.9251984126981</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.666666666666669</attribute>
+				<attribute key="ySource" type="double">0.7447810590631336</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">49</attribute>
+			<attribute key="target" type="int">42</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.1200396825396</attribute>
+						<attribute key="y" type="double">3077.5822979797963</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">831.5720238095238</attribute>
+						<attribute key="y" type="double">3162.5547456337245</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">789.4863095238095</attribute>
+						<attribute key="y" type="double">3227.1547456337244</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.6666666666666666</attribute>
+				<attribute key="ySource" type="double">0.7447810590631336</attribute>
+				<attribute key="xTarget" type="double">0.8571428571428568</attribute>
+				<attribute key="yTarget" type="double">-0.5156568228105886</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">49</attribute>
+			<attribute key="target" type="int">17</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">3017.9822979797964</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1047.5867063492065</attribute>
+						<attribute key="y" type="double">2491.3325955988453</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1030.853373015873</attribute>
+						<attribute key="y" type="double">2401.868508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1030.853373015873</attribute>
+						<attribute key="y" type="double">1160.8944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1553.785119047619</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1545.6017857142856</attribute>
+						<attribute key="y" type="double">629.5000000000001</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.666666666666669</attribute>
+				<attribute key="ySource" type="double">-0.7447810590631343</attribute>
+				<attribute key="xTarget" type="double">0.16666666666666782</attribute>
+				<attribute key="yTarget" type="double">0.9866344195519349</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">20</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1014.853373015873</attribute>
+						<attribute key="y" type="double">4582.7363274495165</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1002.578373015873</attribute>
+						<attribute key="y" type="double">4523.136327449516</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">993.4882936507936</attribute>
+						<attribute key="y" type="double">4313.474125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">993.4882936507936</attribute>
+						<attribute key="y" type="double">3423.3860948400734</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1079.4537698412698</attribute>
+						<attribute key="y" type="double">3286.7547456337243</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1079.4537698412698</attribute>
+						<attribute key="y" type="double">2786.996980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1023.9029761904762</attribute>
+						<attribute key="y" type="double">2620.5325955988446</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.24999999999999942</attribute>
+				<attribute key="ySource" type="double">-0.9688136456211882</attribute>
+				<attribute key="xTarget" type="double">0.8333333333333345</attribute>
+				<attribute key="yTarget" type="double">0.5525712830957209</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">18</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1388.125992063492</attribute>
+						<attribute key="y" type="double">2342.268508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1363.575992063492</attribute>
+						<attribute key="y" type="double">2401.868508297258</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1015.7196428571428</attribute>
+						<attribute key="y" type="double">2491.3325955988453</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">0.6666666666666666</attribute>
+				<attribute key="yTarget" type="double">-0.7447810590631343</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">9</attribute>
+			<attribute key="target" type="int">28</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">942.0696428571428</attribute>
+						<attribute key="y" type="double">2620.5325955988446</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">544.6121031746031</attribute>
+						<attribute key="y" type="double">2722.8969805194797</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.8333333333333345</attribute>
+				<attribute key="ySource" type="double">0.5525712830957209</attribute>
+				<attribute key="xTarget" type="double">0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">9</attribute>
+			<attribute key="target" type="int">17</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">2555.9325955988447</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">982.9863095238095</attribute>
+						<attribute key="y" type="double">1160.8944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1537.4184523809524</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1545.6017857142856</attribute>
+						<attribute key="y" type="double">629.5000000000001</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">-0.9999999999999977</attribute>
+				<attribute key="xTarget" type="double">-0.16666666666666782</attribute>
+				<attribute key="yTarget" type="double">0.9866344195519349</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">28</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">520.0621031746032</attribute>
+						<attribute key="y" type="double">2787.496980519479</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">495.51210317460317</attribute>
+						<attribute key="y" type="double">1224.9944805194807</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">817.6602272727273</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.5000000000000011</attribute>
+				<attribute key="ySource" type="double">-0.8657077393075334</attribute>
+				<attribute key="xTarget" type="double">-0.18181818181818077</attribute>
+				<attribute key="yTarget" type="double">0.9828156822810579</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">17</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1545.6017857142856</attribute>
+						<attribute key="y" type="double">629.5000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1521.0517857142856</attribute>
+						<attribute key="y" type="double">689.1000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">861.6000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.49999999999999883</attribute>
+				<attribute key="ySource" type="double">0.8657077393075358</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">11</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">844.4420454545455</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1098.6791666666666</attribute>
+						<attribute key="y" type="double">1160.8944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1123.2291666666665</attribute>
+						<attribute key="y" type="double">1571.1748773448771</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.36363636363636387</attribute>
+				<attribute key="ySource" type="double">0.9318991853360478</attribute>
+				<attribute key="xTarget" type="double">-0.49999999999999883</attribute>
+				<attribute key="yTarget" type="double">-0.8657077393075334</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">31</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">826.5875</attribute>
+						<attribute key="y" type="double">926.2000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">853.3693181818181</attribute>
+						<attribute key="y" type="double">990.8000000000002</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1160.8944805194808</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1247.8375</attribute>
+						<attribute key="y" type="double">1225.494480519481</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.5454545454545446</attribute>
+				<attribute key="ySource" type="double">0.837703665987779</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">37</attribute>
+			<attribute key="target" type="int">44</attribute>
+			<section name="graphics">
+				<attribute key="type" type="String">quadCurve</attribute>
+				<attribute key="quadCurveStraightness" type="double">0.1</attribute>
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1468.7263888888888</attribute>
+						<attribute key="y" type="double">4312.974125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1508.0063888888888</attribute>
+						<attribute key="y" type="double">4248.374125068564</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1645.9271825396825</attribute>
+						<attribute key="y" type="double">4020.594918719358</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1645.9271825396825</attribute>
+						<attribute key="y" type="double">579.9000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1594.7017857142857</attribute>
+						<attribute key="y" type="double">408.9000000000001</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1557.8767857142857</attribute>
+						<attribute key="y" type="double">344.30000000000007</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.799999999999999</attribute>
+				<attribute key="ySource" type="double">-0.5996690427698645</attribute>
+				<attribute key="xTarget" type="double">0.7500000000000006</attribute>
+				<attribute key="yTarget" type="double">0.6620417515274951</attribute>
+			</section>
+		</section>
+	</section>
+</section>

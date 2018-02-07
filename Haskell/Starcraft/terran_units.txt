@@ -1,0 +1,17 @@
+SCV
+Marine
+Marauder
+Reaper
+Ghost
+Hellion
+Siege Tank
+Thor
+Viking
+Medivac
+Raven
+Banshee
+Battlecruiser
+Hellbat
+Widow Mine
+Liberator
+Cyclone
