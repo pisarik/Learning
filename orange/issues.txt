@@ -1,0 +1,9 @@
+1. Icons when created can appear behind window boards;
+2. I think a lot of users suffer during installing orange, because
+they don't know that they need to have PyQt; I think for better user
+experience you should include information about installing pyqt as well.
+more detailed download instruction.
+3. Suggestion: watch the code in order to learn how to write it.
+4. Conception of predefined sequence of colors. Black lines -> colorized,
+   random colors, or from heat maps.
+5. Some buttons for managing windows, cascade or another.
