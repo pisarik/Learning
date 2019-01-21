@@ -1,0 +1,13 @@
+import numpy as np    
+
+
+def main():
+    n_per_class = 100
+    # overall length of vector will be 50
+    m = 50
+    patterns = ['ascend', 'descend', 'hill', 'pit', 'step']
+    
+
+
+if __name__ == '__main__':
+    main()
