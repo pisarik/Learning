@@ -1,0 +1,34 @@
+\begin{tikzpicture}
+
+  \begin{axis} [
+    title={Linear coefficient},
+    xlabel={Wavenumbers},
+    ylabel={Absorbance}
+    ]
+    \pgfplotstableread{data.csv}\mydata;
+
+    \addplot [red] table [
+    x=wn,
+    y=spectra,
+    each nth point={50}
+    ]
+    {\mydata};
+    \addplot [] table [
+    x=wn,
+    y=corrected,
+    each nth point={50}
+    ]
+    {\mydata};
+    \addplot [] table [
+    x=wn,
+    y=line,
+    each nth point={50}
+    ]
+    {\mydata};
+  \end{axis}
+  
+\end{tikzpicture}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "main"
+%%% End:
