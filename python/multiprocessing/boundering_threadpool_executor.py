@@ -25,22 +25,27 @@ def func_to_process(work_num):
     return work_num
 
 
+# unfortunately it should be global function
 def __blocking_task(queue, func, arg):
     res = func(arg)
     queue.put(res)
     return res
 
 
+def cool_map(pool, max_size, func, params):
+    # always ready maxsize + n_workers tasks
+    results = mp.Manager().Queue(maxsize=max_size)
+    cool_task = partial(__blocking_task, results, func)
+
+    pool.map(cool_task, params)
+    return results
+
+
 if __name__ == '__main__':
-    # wrapper = lambda x: results_queue.put(func_to_process(x))
     params = np.random.randint(100, size=100)
 
-    manager = mp.Manager()
-    results = manager.Queue(maxsize=1)  # always ready maxsize + n_workers tasks
-
     with ProcessPoolExecutor(6) as executor:
-        fs = executor.map(partial(__blocking_task, results, func_to_process),
-                          params)
+        queue = cool_map(executor, 1, func_to_process, params)
 
         for i in range(len(params)):
-            print('Ready ready ready ready', results.get())
+            print('Ready ready ready ready', queue.get())
