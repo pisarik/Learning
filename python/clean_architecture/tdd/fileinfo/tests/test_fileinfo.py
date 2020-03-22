@@ -27,13 +27,17 @@ def test_init_relative():
     assert fi.filename == filename
 
 
+@patch('os.path.getsize')
 @patch('os.path.abspath')
-def test_get_info(abspath_mock):
+def test_get_info(abspath_mock, getsize_mock):
     test_abspath = 'some/abs/path'
     abspath_mock.return_value = test_abspath
+
+    test_size = 1234
+    getsize_mock.return_value = test_size
 
     filename = 'somefile.ext'
     original_path = '../{}'.format(filename)
 
     fi = FileInfo(original_path)
-    assert fi.get_info() == (filename, original_path, test_abspath)
+    assert fi.get_info() == (filename, original_path, test_abspath, test_size)
