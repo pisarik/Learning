@@ -40,4 +40,8 @@ def test_get_info(abspath_mock, getsize_mock):
     original_path = '../{}'.format(filename)
 
     fi = FileInfo(original_path)
-    assert fi.get_info() == (filename, original_path, test_abspath, test_size)
+    info = fi.get_info()
+
+    abspath_mock.assert_called_with(original_path)
+    getsize_mock.assert_called_with(original_path)
+    assert info == (filename, original_path, test_abspath, test_size)
